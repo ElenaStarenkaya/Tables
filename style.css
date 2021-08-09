@@ -1,0 +1,84 @@
+/* table {
+    border-collapse: separate;
+    border-spacing: 15px;
+    width: 50%;
+    margin: auto;
+    background-color: darkgrey;
+}
+
+table, td, th { */
+    /* border: 1px solid black; */
+    /* border-radius: 10px;
+}
+
+td, th {
+    width: auto;
+    text-align: center;
+    background-color: white;
+} */
+
+/* .uniq {
+    width: 50%;
+} */
+
+/* td:first-child {
+    width: 5px;
+} */
+
+/* th {
+    border: 1px solid red;
+} */
+
+
+
+/* 2 table */
+
+
+/* .col-1 {
+    background-color: tomato;
+}
+
+.col-2 {
+    background-color: rgb(223, 53, 23);
+}
+
+.col-3 {
+    background-color: rgb(161, 27, 3);
+}
+
+thead {
+    color: rgb(33, 146, 146);
+}
+
+tbody {
+    font-style: italic;
+} */
+
+/* 3 table */
+table {
+    width: 100%;
+    /* border-collapse: collapse; */
+}
+
+/* table, td, th {  */
+    /* border: 1px solid black; */
+
+.col1-2 {
+    background-color: rgb(219, 175, 30);
+}
+
+.col3 {
+    background-color: rgb(70, 56, 146);
+}
+
+.col4 {
+    background-color: tomato;
+}
+
+.col5 {
+    background-color: rgb(91, 173, 80);
+}
+
+.col6 {
+    background-color: rgb(202, 85, 143);
+}
